@@ -5,3 +5,4 @@ numpy
 shap
 plotly_express
 matplotlib
+seaborn
